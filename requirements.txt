@@ -1,0 +1,6 @@
+pytest
+requests
+pytest-html
+
+
+# pip3 install -r requirements.txt   ---to use this file and it will install all requirements
